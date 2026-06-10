@@ -1,0 +1,17 @@
+{
+  "name": "campus_notification_service",
+  "version": "1.0.0",
+  "description": "Campus Notification Web Service backend built with Node.js, Express, and MongoDB.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.4",
+    "mongoose": "^7.4.0"
+  }
+}
