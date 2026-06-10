@@ -1,5 +1,5 @@
 {
-  "name": "@affordmed/logging-middleware",
+  "name": "logging-middleware",
   "version": "1.0.0",
   "description": "Reusable logging middleware for Affordmed backend and frontend applications.",
   "main": "index.js",
