@@ -1,0 +1,11 @@
+{
+  "name": "vehicle_scheduling",
+  "version": "1.0.0",
+  "description": "Vehicle maintenance scheduler microservice for Afford Medical Technologies.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
